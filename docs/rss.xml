@@ -1,2 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://noguimc.github.io/12</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://noguimc.github.io/12</link></image><lastBuildDate>Sat, 22 Feb 2025 11:35:31 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>123</title><link>https://noguimc.github.io/12/post/123.html</link><description>123。</description><guid isPermaLink="true">https://noguimc.github.io/12/post/123.html</guid><pubDate>Sat, 22 Feb 2025 11:35:04 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://noguimc.github.io/12</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://noguimc.github.io/12</link></image><lastBuildDate>Sat, 22 Feb 2025 12:09:44 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>steam注册</title><link>https://noguimc.github.io/12/post/steam-zhu-ce.html</link><description>- **第一步**
+
+1. 获取邮箱：**https://outlook.live.com/**
+2. 创建免费账户
+3. 同意个人数据导出许可&gt;&gt;创建账户(**以xxx@outlook.com或xxx@hotemail.com为格式**)&gt;&gt;创建密码&gt;&gt;输入你的名字&gt;&gt;输入出生日期(**早一些**)&gt;&gt;人机验证&gt;&gt;完成
+
+- **第二步**
+
+1. 下载**Watt Toolkit**
+https://steampp.net/ &gt;&gt;下载Windows版本&gt;&gt;接受并下载&gt;&gt;蓝奏云网盘&gt;&gt;下载并安装&gt;&gt;启动&gt;&gt;勾选**国外验证码平台**与**Steam**&gt;&gt;启动加速
+2. 打开Steam**官网**
+https://store.steampowered.com/
+3. 注册页面
+https://store.steampowered.com/join/
+4. 输入电子邮件地址、确认电子邮件地址、进行人机验证
+5. 回到**Outlook**验证你的电子邮件
+6. 输入你的账号名称和密码，点击完成，完成注册
+
+
+
+
+。</description><guid isPermaLink="true">https://noguimc.github.io/12/post/steam-zhu-ce.html</guid><pubDate>Sat, 22 Feb 2025 12:09:24 +0000</pubDate></item><item><title>123</title><link>https://noguimc.github.io/12/post/123.html</link><description>123。</description><guid isPermaLink="true">https://noguimc.github.io/12/post/123.html</guid><pubDate>Sat, 22 Feb 2025 11:35:04 +0000</pubDate></item></channel></rss>
