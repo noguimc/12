@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>鸽子的博客</title><link>http://noguimc.run.place</link><description>摸鱼ing</description><copyright>鸽子的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>http://noguimc.run.place</link></image><lastBuildDate>Sun, 23 Feb 2025 12:33:42 +0000</lastBuildDate><managingEditor>鸽子的博客</managingEditor><ttl>60</ttl><webMaster>鸽子的博客</webMaster><item><title>123</title><link>http://noguimc.run.place/post/123.html</link><description>`Gmeek-html&lt;img src='https://github.com/noguimc/Gmeek/blob/main/static/nxzm7-2pere.gif'&gt;`。</description><guid isPermaLink="true">http://noguimc.run.place/post/123.html</guid><pubDate>Sun, 23 Feb 2025 12:33:10 +0000</pubDate></item><item><title>测试markdown</title><link>http://noguimc.run.place/post/ce-shi-markdown.html</link><description>```c++
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>鸽子的博客</title><link>http://noguimc.run.place</link><description>摸鱼ing</description><copyright>鸽子的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>http://noguimc.run.place</link></image><lastBuildDate>Wed, 26 Feb 2025 11:10:41 +0000</lastBuildDate><managingEditor>鸽子的博客</managingEditor><ttl>60</ttl><webMaster>鸽子的博客</webMaster><item><title>Hearts+of+Iron+IV使用教程</title><link>http://noguimc.run.place/post/Hearts%2Bof%2BIron%2BIV-shi-yong-jiao-cheng.html</link><description># 破解123云盘
+破解程序：https://www.123865.com/s/9r1Wjv-2CgWh
+破解程序使用：https://www.52pojie.cn/thread-1972567-1-1.html
+# 下载
+主包：https://www.123865.com/s/9r1Wjv-sCgWh
+# 解压
+解压到无中文目录
+# 部署
+
+1. 启动**hoi4.exe**一次
+2. 将游戏根目录下的pdx_settings.txt复制到你的\文档\Paradox Interactive\Hearts of Iron IV,覆盖
+# 正常游玩
+启动**hoi4.exe**
+# 我找不到吞并省份的命令了。</description><guid isPermaLink="true">http://noguimc.run.place/post/Hearts%2Bof%2BIron%2BIV-shi-yong-jiao-cheng.html</guid><pubDate>Wed, 26 Feb 2025 11:09:50 +0000</pubDate></item><item><title>123</title><link>http://noguimc.run.place/post/123.html</link><description>`Gmeek-html&lt;img src='https://github.com/noguimc/Gmeek/blob/main/static/nxzm7-2pere.gif'&gt;`。</description><guid isPermaLink="true">http://noguimc.run.place/post/123.html</guid><pubDate>Sun, 23 Feb 2025 12:33:10 +0000</pubDate></item><item><title>测试markdown</title><link>http://noguimc.run.place/post/ce-shi-markdown.html</link><description>```c++
 #include &lt;bits/stdc++.h&gt;
 using namespace std;
 int main(){
